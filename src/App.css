@@ -1,0 +1,16 @@
+.App {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+.App-header {
+  background-color: #105d98;
+  min-height: 3.5rem;
+  text-align: center;
+  font-size: calc(30px + 2vmin);
+  color: white;
+}
+.title{
+  top: 1rem;
+  font-weight: bolder;
+  color: #ffffff;
+}

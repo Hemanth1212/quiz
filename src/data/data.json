@@ -1,0 +1,133 @@
+{
+    "wordList": [
+        {
+            "id": 1,
+            "word": "slowly",
+            "pos": "adverb"
+        },
+        {
+            "id": 2,
+            "word": "ride",
+            "pos": "verb"
+        },
+        {
+            "id": 3,
+            "word": "bus",
+            "pos": "noun"
+        },
+        {
+            "id": 4,
+            "word": "station",
+            "pos": "noun"
+        },
+        {
+            "id": 5,
+            "word": "government",
+            "pos": "noun"
+        },
+        {
+            "id": 6,
+            "word": "commute",
+            "pos": "verb"
+        },
+        {
+            "id": 7,
+            "word": "emissions",
+            "pos": "noun"
+        },
+        {
+            "id": 8,
+            "word": "walk",
+            "pos": "verb"
+        },
+        {
+            "id": 9,
+            "word": "fast",
+            "pos": "adjective"
+        },
+        {
+            "id": 10,
+            "word": "car",
+            "pos": "noun"
+        },
+        {
+            "id": 11,
+            "word": "crowded",
+            "pos": "adjective"
+        },
+        {
+            "id": 12,
+            "word": "arrival",
+            "pos": "noun"
+        },
+        {
+            "id": 13,
+            "word": "emit",
+            "pos": "verb"
+        },
+        {
+            "id": 14,
+            "word": "carefully",
+            "pos": "adverbs"
+        },
+        {
+            "id": 15,
+            "word": "independent",
+            "pos": "adjective"
+        },
+        {
+            "id": 16,
+            "word": "convenient",
+            "pos": "adjective"
+        },
+        {
+            "id": 17,
+            "word": "lane",
+            "pos": "noun"
+        },
+        {
+            "id": 18,
+            "word": "sadly",
+            "pos": "adverbs"
+        },
+        {
+            "id": 19,
+            "word": "heavily",
+            "pos": "adverb"
+        }
+    ],
+    "scoresList": [
+        20,
+        90,
+        100,
+        50,
+        10,
+        50,
+        60,
+        0,
+        60,
+        10,
+        90,
+        30,
+        100,
+        30,
+        20,
+        90,
+        40,
+        20,
+        10,
+        60,
+        50,
+        100,
+        50,
+        80,
+        50,
+        80,
+        60,
+        80,
+        10,
+        40
+    ],
+    "options":[{"id": "noun","label":"Noun","checked":false},{"id": "verb","label":"Verb","checked":false},{"id": "adjective","label":"Adjective","checked":false},{"id": "adverb","label":"Adverb","checked":false}],
+    "stepper":[{"id":"q1"},{"id":"q2"},{"id":"q3"},{"id":"q4"},{"id":"q5"},{"id":"q6"},{"id":"q7"},{"id":"q8"},{"id":"q9"},{"id":"q10"}]
+}
