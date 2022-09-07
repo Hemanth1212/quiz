@@ -126,7 +126,8 @@
         60,
         80,
         10,
-        40
+        40,
+        60
     ],
     "options":[{"id": "noun","label":"Noun","checked":false},{"id": "verb","label":"Verb","checked":false},{"id": "adjective","label":"Adjective","checked":false},{"id": "adverb","label":"Adverb","checked":false}],
     "stepper":[{"id":"q1"},{"id":"q2"},{"id":"q3"},{"id":"q4"},{"id":"q5"},{"id":"q6"},{"id":"q7"},{"id":"q8"},{"id":"q9"},{"id":"q10"}]
