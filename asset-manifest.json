@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hemanth1212/quiz-app.git/static/css/main.05a40923.css",
-    "main.js": "/Hemanth1212/quiz-app.git/static/js/main.9acffaa1.js",
-    "static/js/787.9e90ff23.chunk.js": "/Hemanth1212/quiz-app.git/static/js/787.9e90ff23.chunk.js",
-    "static/media/quiz.svg": "/Hemanth1212/quiz-app.git/static/media/quiz.6bb2b677a2f3dacf115e063c86e168d5.svg",
-    "index.html": "/Hemanth1212/quiz-app.git/index.html",
-    "main.05a40923.css.map": "/Hemanth1212/quiz-app.git/static/css/main.05a40923.css.map",
-    "main.9acffaa1.js.map": "/Hemanth1212/quiz-app.git/static/js/main.9acffaa1.js.map",
-    "787.9e90ff23.chunk.js.map": "/Hemanth1212/quiz-app.git/static/js/787.9e90ff23.chunk.js.map"
+    "main.css": "/quiz-app/static/css/main.05a40923.css",
+    "main.js": "/quiz-app/static/js/main.1b529906.js",
+    "static/js/787.9e90ff23.chunk.js": "/quiz-app/static/js/787.9e90ff23.chunk.js",
+    "static/media/quiz.svg": "/quiz-app/static/media/quiz.6bb2b677a2f3dacf115e063c86e168d5.svg",
+    "index.html": "/quiz-app/index.html",
+    "main.05a40923.css.map": "/quiz-app/static/css/main.05a40923.css.map",
+    "main.1b529906.js.map": "/quiz-app/static/js/main.1b529906.js.map",
+    "787.9e90ff23.chunk.js.map": "/quiz-app/static/js/787.9e90ff23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05a40923.css",
-    "static/js/main.9acffaa1.js"
+    "static/js/main.1b529906.js"
   ]
 }
